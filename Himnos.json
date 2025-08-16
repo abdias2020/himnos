@@ -7,7 +7,7 @@
     "versiculo": null,
     "favorito": 0,
     "estado": 1,
-    "audio": "https://url-del-audio.mp3"
+    "audio": null
   },
   {
     "id": 2,
@@ -17,7 +17,7 @@
     "versiculo": null,
     "favorito": 0,
     "estado": 1,
-    "audio": null
+    "audio": "https://raw.githubusercontent.com/abdias2020/himnos/main/A%20T%C3%8D%20CLAME.mp3"
   },
   {
     "id": 3,
