@@ -27,7 +27,7 @@
     "versiculo": null,
     "favorito": 0,
     "estado": 1,
-    "audio": null
+    "audio": "https://raw.githubusercontent.com/abdias2020/himnos/main/A%20QUIEN%20IRE.mp3"
   },
   {
     "id": 4,
@@ -37,7 +37,7 @@
     "versiculo": null,
     "favorito": 0,
     "estado": 1,
-    "audio": null
+    "audio": "https://raw.githubusercontent.com/abdias2020/himnos/main/ACEPTA%20A%20CRISTO.mp3"
   },
   {
     "id": 5,
@@ -67,7 +67,7 @@
     "versiculo": null,
     "favorito": 0,
     "estado": 1,
-    "audio": null
+    "audio": "https://raw.githubusercontent.com/abdias2020/himnos/main/ADORADLE.mp3"
   },
   {
     "id": 8,
