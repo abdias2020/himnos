@@ -107,7 +107,7 @@
     "versiculo": null,
     "favorito": 0,
     "estado": 1,
-    "audio": null
+    "audio": "https://raw.githubusercontent.com/abdias2020/himnos/main/Alma%20querida.mp3"
   },
   {
     "id": 12,
@@ -127,7 +127,7 @@
     "versiculo": null,
     "favorito": 0,
     "estado": 1,
-    "audio": null
+    "audio": "https://raw.githubusercontent.com/abdias2020/himnos/main/Amados%20Hermanos.mp3"
   },
   {
     "id": 14,
@@ -187,7 +187,7 @@
     "versiculo": null,
     "favorito": 0,
     "estado": 1,
-    "audio": null
+    "audio": "https://raw.githubusercontent.com/abdias2020/himnos/main/EL%20ARCOIRIS%20DE%20ISRAEL.mp3"
   },
   {
     "id": 20,
@@ -457,7 +457,7 @@
     "versiculo": null,
     "favorito": 0,
     "estado": 1,
-    "audio": null
+    "audio": "https://raw.githubusercontent.com/abdias2020/himnos/main/CLAMA%20A%20MI.mp3"
   },
   {
     "id": 47,
