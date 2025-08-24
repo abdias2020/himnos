@@ -207,7 +207,7 @@
     "versiculo": null,
     "favorito": 0,
     "estado": 1,
-    "audio": null
+    "audio": "https://raw.githubusercontent.com/abdias2020/himnos/main/AUQUE%20VENGAN%20TEMPESTADES.mp3"
   },
   {
     "id": 22,
@@ -247,7 +247,7 @@
     "versiculo": null,
     "favorito": 0,
     "estado": 1,
-    "audio": null
+    "audio": "https://raw.githubusercontent.com/abdias2020/himnos/main/AYUNOORACI%C3%93N%20y%20VIGILIA.mp3"
   },
   {
     "id": 26,
@@ -5377,6 +5377,6 @@
     "versiculo": null,
     "favorito": 0,
     "estado": 1,
-    "audio": null
+    "audio": "https://raw.githubusercontent.com/abdias2020/himnos/main/LEVANTATE%20PUEBLO%20DE%20JEHOVA.mp3"
   }
 ]
